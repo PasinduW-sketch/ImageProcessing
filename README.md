@@ -12,7 +12,6 @@ This repository contains Google Colab notebooks for **image processing and super
 ## Notebooks
 
 1. `angelomathews_image.ipynb` – Image subsampling and zooming  
-2. `Pasindu_Srilankaheritagesigiriya.ipynb` – Grayscale to BGR color conversion  
 
 ## Features
 
